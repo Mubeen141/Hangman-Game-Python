@@ -1,5 +1,7 @@
 import random
 
+print("Let's Start the Game!!!")
+
 my_word_list = [
     ["table", "furniture"],
     ["gelpen", "stationary"],
